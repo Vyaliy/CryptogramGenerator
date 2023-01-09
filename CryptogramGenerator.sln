@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptogramGenerator", "CryptogramGenerator\CryptogramGenerator.csproj", "{B0CB9899-BCBF-4B75-A30C-52EAC4C23F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CB9899-BCBF-4B75-A30C-52EAC4C23F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CB9899-BCBF-4B75-A30C-52EAC4C23F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CB9899-BCBF-4B75-A30C-52EAC4C23F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CB9899-BCBF-4B75-A30C-52EAC4C23F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFF4FD6-EADA-4B96-9592-5F277198850C}
+	EndGlobalSection
+EndGlobal
